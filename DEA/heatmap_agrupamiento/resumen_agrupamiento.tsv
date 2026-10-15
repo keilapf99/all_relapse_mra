@@ -1,0 +1,3 @@
+agrupamiento	n_genes	grupo1_con_recaida	grupo1_sin_recaida	grupo2_con_recaida	grupo2_sin_recaida	p_fisher	ARI
+A_DEGs	237	12	14	8	1	0.04834991939945156	0.04037669881012797
+B_mayor_varianza	237	15	14	5	1	0.20724081421424873	-0.018296458931486806

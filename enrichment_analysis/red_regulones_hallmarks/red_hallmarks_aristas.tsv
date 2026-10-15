@@ -1,0 +1,8 @@
+from	to	reguladores_compartidos	jaccard	reguladores
+Genome instability (M)	MYC targets v1	1	1	CREB3L4
+Oxidative phosphorylation	Reprogramming energy metabolism (M)	5	0.45454545454545453	CREB3, HMG20B, ZNF282, ZNF33A, ZNF581
+Interferon gamma response	TNFα signaling via NF-κB	1	0.3333333333333333	MAFB
+Complement	Inflammatory response	1	0.16666666666666666	LTF
+Inflammatory response	Interferon gamma response	1	0.16666666666666666	MAFB
+Inflammatory response	KRAS signaling up	1	0.16666666666666666	CEBPD
+Inflammatory response	TNFα signaling via NF-κB	1	0.125	MAFB

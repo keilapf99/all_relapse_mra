@@ -1,0 +1,8 @@
+variable	tabla	dimension	p_valor	comparacion_or	odds_ratio	ic95_inf	ic95_sup	significativo	prueba
+sexo	9/8 Femenino; 11/7 Masculino	2x2	0.7379863063859774	Masculino vs. Femenino	1.3834598118859058	0.29968736635634413	6.569566067010727	FALSE	Fisher exacta
+edad	7/8 1-9.99; 13/7 ≥10	2x2	0.32077659327018526	≥10 vs. 1-9.99	2.0759896077220663	0.44236166130158683	10.324223777228298	FALSE	Fisher exacta
+leucocitos	12/8 <50,000/µL; 8/7 ≥50,000/µL	2x2	0.7411777981976754	≥50,000/µL vs. <50,000/µL	0.7678920744307076	0.16117115113622707	3.622248157642693	FALSE	Fisher exacta
+fusion	19/14 Riesgo habitual; 1/1 Riesgo alto	2x2	1	Riesgo alto vs. Riesgo habitual	0.7434007849233887	0.008932120815521187	61.896859730605904	FALSE	Fisher exacta
+riesgo	3/5 Riesgo habitual; 17/10 Riesgo alto	2x2	0.2463595914652644	Riesgo alto vs. Riesgo habitual	2.746507631281597	0.42701938982471915	21.638390264106693	FALSE	Fisher exacta
+edad_anios	NA	NA	0.6407149949863951	NA	NA	NA	NA	NA	Mann-Whitney (continua)
+cl_uL	NA	NA	0.5374546118808794	NA	NA	NA	NA	NA	Mann-Whitney (continua)

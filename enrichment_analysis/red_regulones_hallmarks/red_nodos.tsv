@@ -1,0 +1,41 @@
+name	tipo	grupo	NES_MRA	n_genes	coleccion	grado
+BPTF	Regulador maestro	Activo en recaída	6.7836916422473665	457	NA	1
+CEBPB	Regulador maestro	Activo en recaída	6.8881077593702384	312	NA	1
+CEBPD	Regulador maestro	Activo en recaída	10.692608729147153	164	NA	2
+CEBPE	Regulador maestro	Activo en recaída	5.0079428895976035	46	NA	1
+CIC	Regulador maestro	Reprimido en recaída	-6.537923678360217	82	NA	1
+CREB1	Regulador maestro	Activo en recaída	2.505602253172359	172	NA	1
+CREB3	Regulador maestro	Reprimido en recaída	-4.870351426102962	463	NA	2
+CREB3L4	Regulador maestro	Reprimido en recaída	-5.5207895665917865	115	NA	2
+CREB5	Regulador maestro	Activo en recaída	7.991386202105119	63	NA	1
+E4F1	Regulador maestro	Reprimido en recaída	-14.104719442811243	855	NA	1
+HMG20B	Regulador maestro	Reprimido en recaída	-12.051348392390725	830	NA	2
+HMGA1	Regulador maestro	Reprimido en recaída	-2.627826117390805	173	NA	1
+LTF	Regulador maestro	Activo en recaída	14.846421286573923	100	NA	2
+MAFB	Regulador maestro	Activo en recaída	8.270266868767216	68	NA	3
+MXD1	Regulador maestro	Activo en recaída	8.192779299989883	30	NA	1
+NFKB2	Regulador maestro	Activo en recaída	5.012685095107175	141	NA	1
+NR2F6	Regulador maestro	Reprimido en recaída	-6.452210912105774	235	NA	1
+NRL	Regulador maestro	Reprimido en recaída	-4.375823465936548	186	NA	1
+ZBTB48	Regulador maestro	Reprimido en recaída	-3.466811620258764	95	NA	1
+ZNF282	Regulador maestro	Reprimido en recaída	-10.835376172252557	713	NA	2
+ZNF33A	Regulador maestro	Activo en recaída	3.959611034302887	385	NA	2
+ZNF566	Regulador maestro	Reprimido en recaída	-2.2585554075986747	45	NA	1
+ZNF581	Regulador maestro	Reprimido en recaída	-11.624506482138559	833	NA	2
+ZNF680	Regulador maestro	Activo en recaída	4.209131295862438	151	NA	1
+ZNF692	Regulador maestro	Reprimido en recaída	-2.710921612569188	141	NA	1
+ZNF768	Regulador maestro	Reprimido en recaída	-7.217428232573631	360	NA	1
+ZSCAN5A	Regulador maestro	Reprimido en recaída	-3.126018567396127	103	NA	1
+Reprogramming energy metabolism (M)	Hallmark	Cancer Hallmarks (Menyhart, core)	NA	NA	Cancer Hallmarks (Menyhart, core)	6
+Genome instability (M)	Hallmark	Cancer Hallmarks (Menyhart, core)	NA	NA	Cancer Hallmarks (Menyhart, core)	1
+Inflammatory response	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	6
+MYC targets v1	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	1
+Oxidative phosphorylation	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	10
+TNFα signaling via NF-κB	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	3
+Complement	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	1
+Mitotic spindle	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	2
+MYC targets v2	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	3
+P53 pathway	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	1
+Spermatogenesis	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	1
+KRAS signaling up	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	1
+Interferon gamma response	Hallmark	MSigDB Hallmarks	NA	NA	MSigDB Hallmarks	1

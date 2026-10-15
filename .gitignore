@@ -1,0 +1,21 @@
+# Se suben scripts (.R), figuras (.png/.pdf) y tablas de resultados (.tsv/.csv/.txt)
+
+# Logs y entorno
+*.log
+logs/
+*.yml
+Rplots.pdf
+
+# Objetos de R (pueden contener datos de expresion)
+*.RData
+*.rds
+
+# Matrices de expresion y datos de entrada
+raw_data/*.tsv
+raw_data/*.txt
+preprocess/*.tsv
+**/gene_sets/
+
+# Metadata y datos por paciente
+*metadata*.tsv
+DEA/heatmap_agrupamiento/grupos_pacientes.tsv
